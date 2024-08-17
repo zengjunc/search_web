@@ -1,0 +1,90 @@
+[
+    {
+        "网址": "https://pyecharts.org/#/zh-cn/",
+        "重点": [
+            "python，图形库"
+        ],
+        "介绍": "python的图形库，用于数据分析和数据可视化",
+        "领域": "计算机",
+        "魔法标签": [
+            "×"
+        ]
+    },
+    {
+        "网址": "https://zhouql.vip/bilibili/",
+        "重点": [
+            "视频"
+        ],
+        "介绍": "bilibili视频下载（软件更好）",
+        "领域": "视频",
+        "魔法标签": [
+            "×"
+        ]
+    },
+    {
+        "网址": "https://anaconda.org/",
+        "重点": [
+            "代码，虚拟环境"
+        ],
+        "介绍": "虚拟环境设置查询",
+        "领域": "计算机",
+        "魔法标签": [
+            "×"
+        ]
+    },
+    {
+        "网址": "https://developer.mozilla.org/zh-CN/docs/Web/HTML",
+        "重点": [
+            "html，前端"
+        ],
+        "介绍": "html代码查询文档",
+        "领域": "计算机",
+        "魔法标签": [
+            "×"
+        ]
+    },
+    {
+        "网址": "https://css.bqrdh.com/safety-color",
+        "重点": [
+            "css，前端"
+        ],
+        "介绍": "css代码查询文档",
+        "领域": "计算机",
+        "魔法标签": [
+            "×"
+        ]
+    },
+    {
+        "网址": "https://docs.djangoproject.com",
+        "重点": [
+            "django，代码，python"
+        ],
+        "介绍": "django代码查询文档",
+        "领域": "计算机",
+        "魔法标签": [
+            "×"
+        ]
+    },
+    {
+        "网址": "https://getbootstrap.com/",
+        "重点": [
+            "前端，代码"
+        ],
+        "介绍": "bootstrap导航条代码查询文档（可用于django）",
+        "领域": "计算机",
+        "魔法标签": [
+            "×"
+        ]
+    },
+    {
+        "网址": "https://modelscope.cn/studios/Datawhale/datawhale_spark_2024",
+        "重点": [
+            "代码，gradio，星火"
+        ],
+        "介绍": "魔搭社区，gradio案例",
+        "领域": "计算机",
+        "魔法标签": [
+            "×"
+        ]
+    }
+]

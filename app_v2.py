@@ -12,9 +12,9 @@ from sparkai.core.messages import ChatMessage
 # 星火认知大模型Spark Max的URL值，其他版本大模型URL值请前往文档（https://www.xfyun.cn/doc/spark/Web.html）查看
 SPARKAI_URL = 'wss://spark-api.xf-yun.com/v4.0/chat'
 # 星火认知大模型调用秘钥信息，请前往讯飞开放平台控制台（https://console.xfyun.cn/services/bm35）查看
-SPARKAI_APP_ID = 'cf440481'
-SPARKAI_API_SECRET = 'MzU1MmNhZDY0YzU2Y2M1OWU3OTRhM2M1'
-SPARKAI_API_KEY = 'd622efd22c70365d8ec867c771174800'
+SPARKAI_APP_ID = 'XXXXXXXXXX'
+SPARKAI_API_SECRET = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+SPARKAI_API_KEY = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 # 星火认知大模型Spark Max的domain值，其他版本大模型domain值请前往文档（https://www.xfyun.cn/doc/spark/Web.html）查看
 SPARKAI_DOMAIN = '4.0Ultra'
 

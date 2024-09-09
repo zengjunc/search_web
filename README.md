@@ -3,6 +3,10 @@
 这是一个使用Gradio库创建的简单网站管理工具。它允许用户搜索、添加和删除网站，并记录所有操作。
 
 ## 功能
+![6c56e47180338df65a621656bf4eba2](https://github.com/user-attachments/assets/4f2a4e24-83e2-451c-9b44-a9d0da8f7f11)
+![156f940b21bb9f57d739bdfe9944b4a](https://github.com/user-attachments/assets/438f067e-0f68-4678-ad1a-30be6871ce56)
+![3f9de66a898db322b01b0e0ed6bd852](https://github.com/user-attachments/assets/b0ed8ff0-d7e2-4ac3-948e-06096d33d884)
+![da96508b8ec66aaf3c8c1226db1cd78](https://github.com/user-attachments/assets/0d68c9d7-e72a-43c1-ad4f-44e43a93b458)
 
 - 加载和保存网站数据
 - 记录操作日志

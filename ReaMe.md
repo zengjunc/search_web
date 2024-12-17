@@ -10,19 +10,21 @@
 - 添加网站
 - 删除网站
 - 显示操作日志和网站列表
+- AI助手（调用星火的api），智能回答
 
 ## 使用方法
 
-1. 确保已安装Gradio库。如果没有安装，请运行以下命令安装：
+1. 确保已安装Gradio库和星火SDK。如果没有安装，请运行以下命令安装：
 
 ``` bash
 pip install gradio
+pip install --upgrade spark_ai_python
 ```
 
 2. 运行以下命令启动网站管理工具：
 
 ```bash
-python app.py
+python app.py  # 看具体的app版本名
 ```
 
 3. 在浏览器中打开Gradio界面，使用工具提供的功能进行操作。
